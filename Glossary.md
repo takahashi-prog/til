@@ -70,8 +70,8 @@
 
 ### クラスライブラリ
 
-- ～のこと
-  - [サンプル](https://google.co.jp)
+- 複数のクラスで構成された部品群のこと
+  - [クラスライブラリとは何？ Weblio辞書](https://www.weblio.jp/content/%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA)
 
 ### クラスメソッド
 
@@ -87,8 +87,9 @@
 
 ### 抽象クラス
 
-- ～のこと
-  - [サンプル](https://google.co.jp)
+- 抽象メソッドを持つクラス
+- abstractキーワードを指定
+  - [C\# 抽象クラスと抽象メソッドのサンプル\(abstract\) \| ITSakura](https://itsakura.com/csharp-abstract)
 
 ### 抽象メソッド
 
