@@ -42,8 +42,8 @@
 
 ### JCA
 
-- ～のこと
-  - [サンプル](https://google.co.jp)
+- 日本チェーンストア協会が制定したデータ交換手順のこと
+  - [JCA手順 \| ＳＥのひとり言](https://icn-s.info/blogindex/jca-protocol)
 
 ## T
 
